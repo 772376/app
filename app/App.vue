@@ -1,0 +1,18 @@
+<script>
+	export default{
+		onLaunch: function() {
+			console.log('App Launch')
+		},
+		onShow: function(){
+			console.log('App Show')
+		},
+		onHide: function(){
+			console.log('App Hide')
+		}
+	}
+</script>
+<style>
+	view{
+		box-sizing:border-box;//盒子模型,另一个是默认值content-box
+	}
+</style>

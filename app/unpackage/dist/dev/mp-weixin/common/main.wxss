@@ -1,0 +1,5 @@
+
+view{
+	box-sizing:border-box;/*盒子模型,另一个是默认值content-box */
+}
+

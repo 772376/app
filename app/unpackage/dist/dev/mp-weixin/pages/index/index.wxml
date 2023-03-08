@@ -1,0 +1,1 @@
+<view class="home"><scroll-view class="navscroll" scroll-x="{{true}}"><view class="item">生肉</view><view class="item">熟肉</view><view class="item">里番</view><view class="item">表番</view><view class="item">新番</view><view class="item">旧番</view></scroll-view><view class="content"><view>每一行的内容</view></view></view>
